@@ -1,0 +1,30 @@
+body, div#wpwrap{background: #aaa;}
+table.form-table input[type="text"] {
+    display: block;
+    overflow: hidden;
+    min-width: 60%;
+    float: left;
+    margin-right: 15px;
+}
+table.form-table input[type="text"] {
+    min-width: 60%;
+}
+.previewThemeOption, .previewThemeOption_ratina, .favicon {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.previewThemeOption img, .previewThemeOption_ratina img, .favicon img {
+    max-width: 150px;
+    margin-top: 10px;
+    overflow: hidden;
+    position: relative;
+}
+span {
+    font-size: 12px;
+}
+span.id {
+    text-align: center;
+    margin-left: 10px;
+    line-height: 25px;
+}
